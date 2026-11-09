@@ -186,3 +186,6 @@ This repository serves as the official landing page for Homizio. The software is
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Homizio today!**
+
+---
+**Last updated:** 2026-11-09 13:42:21 UTC
